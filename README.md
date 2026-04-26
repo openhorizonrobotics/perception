@@ -1,6 +1,4 @@
-# template
-
-## 🗺️ The Year-Long Roadmap
+## Perception
 
 The curriculum is structured as a continuous 9-part journey, released sequentially. It is broken down into three major phases: moving from 2D pixel understanding, into 3D spatial awareness, and finally into physical simulation and generative synthesis.
 
